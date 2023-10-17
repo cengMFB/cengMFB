@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Furkan Beyaz</h1>
-<h3 align="center">A Backend Developer and Application Security Engineer</h3>
+<h3 align="center">A Cyber Security Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
